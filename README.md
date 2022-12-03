@@ -1,1 +1,2 @@
-# Java_absolute_biggner_level
+# Java absolute biggner level
++ Bsics of programming language concepts
